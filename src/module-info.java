@@ -1,0 +1,2 @@
+module JenkinsTest_SimpleProject {
+}
